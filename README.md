@@ -12,7 +12,7 @@ Agriculture plays a vital role in the economy, and farmers require timely access
 Keywords: Agricultural Chatbot, Artificial Intelligence, Flask, Smart Farming, Agriculture Technology, NLP..
 
 
-  #Introduction
+  # Introduction
 Agriculture is one of the most important sectors contributing to economic growth and food security. Farmers often face challenges in accessing reliable information related to crop cultivation, fertilizer usage, pest management, irrigation practices, and government support programs.
 
 With advancements in Artificial Intelligence and web technologies, intelligent chatbot systems can provide instant assistance and agricultural guidance. The proposed AgriBot system acts as a virtual agricultural assistant that interacts with users through a chatbot interface and provides relevant responses to farming-related queries.
@@ -42,7 +42,7 @@ Support for multiple agricultural domains.
 
 The proposed AgriBot system addresses these limitations.
 
-#Methodology
+# Methodology
 The Agricultural Chatbot is developed using Python, Flask, HTML, CSS, JavaScript, and SQLite database. The system provides agricultural information through an interactive chatbot interface.
 
 Step 1: User Login
@@ -70,7 +70,7 @@ Step 6: Display Response
 The generated response is displayed to the user through the chatbot interface..
 
 
- #Implementation
+ # Implementation
 The Agricultural Chatbot is implemented using Python, Flask, HTML, CSS, JavaScript, and SQLite database.
 
 Frontend Development
@@ -100,7 +100,7 @@ The application runs on a local Flask server, allowing users to interact with th
 The implemented system successfully provides quick and reliable agricultural information to support farmers in decision-making and smart farming practices.
 ---
 
-#Results and Discussion
+# Results and Discussion
 The chatbot successfully responds to queries related to crops, fertilizers, weather, and diseases. It provides quick and accurate responses, improving user experience. The system reduces the need for manual consultation and helps farmers make informed decisions. Performance can be further improved with larger datasets and advanced AI models.
 
 
@@ -111,7 +111,7 @@ The chatbot successfully responds to queries related to crops, fertilizers, weat
 - Multi-language support (Hindi, Marathi)  
 - Integration with IoT sensors for real-time data  
 
- #Conclusion
+ # Conclusion
 The Agricultural Chatbot is an AI-based system developed to assist farmers by providing quick and accurate information related to crops, fertilizers, diseases, irrigation, weather conditions, and government schemes. The system uses Python, Flask, and SQLite to deliver responses through a user-friendly chatbot interface.
 
 The proposed solution helps farmers access agricultural knowledge easily, reduces dependency on manual consultation, and supports better decision-making in farming activities. The chatbot is simple, efficient, and available anytime for user assistance.
